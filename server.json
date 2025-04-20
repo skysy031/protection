@@ -5,7 +5,7 @@
     "cipher": "chacha20-ietf-poly1305",
     "password": "oxdzXZWzVhJKCz2HFJ3HB9"
   },
-  "United States 2": {
+  "Hongkong 1": {
     "server": "hkg1.pingzapper.co",
     "port": "10000",
     "cipher": "2022-blake3-aes-128-gcm",
