@@ -6,9 +6,9 @@
     "password": "oxdzXZWzVhJKCz2HFJ3HB9"
   },
   "United States 2": {
-    "server": "us2-shirling-socks.freesocks.work",
-    "port": "443",
-    "cipher": "aes-256-cfb",
-    "password": "password123"
+    "server": "hkg1.pingzapper.co",
+    "port": "10000",
+    "cipher": "2022-blake3-aes-128-gcm",
+    "password": "UnDFq9KqCLD7winATRwaDw=="
   }
 }
