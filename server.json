@@ -10,5 +10,11 @@
     "port": "8443",
     "cipher": "aes_256_gcm",
     "password": "wr7CnMOmw5HDrADCqgPDm8KdG8Kcw4bCqMKEw7wqW1AqNsORVmJ1IsKHZnzCvGHCqg=="
+  },
+  "Singapore 2": {
+    "server": "sg-freevmess.privateip.net",
+    "port": "8443",
+    "cipher": "aes_256_gcm",
+    "password": "adf8b4b0-319c-4257-ae01-52f04cb402af"
   }
 }
