@@ -1,0 +1,14 @@
+{
+  "United States 1": {
+    "server": "pupas-shirting-unsung.freesocks.work",
+    "port": "443",
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "oxdzXZWzVhJKCz2HFJ3HB9"
+  },
+  "United States 2": {
+    "server": "us2-shirling-socks.freesocks.work",
+    "port": "443",
+    "cipher": "aes-256-cfb",
+    "password": "password123"
+  }
+}
