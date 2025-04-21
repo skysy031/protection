@@ -19,7 +19,7 @@
   },
   "Canada 1": {
     "server": "ca.opensocks.site",
-    "port": "8338",
+    "port": "8388",
     "cipher": "chacha20-ietf-poly1305",
     "password": "YWM3NmYz"
   }
