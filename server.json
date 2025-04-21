@@ -22,5 +22,11 @@
     "port": "8388",
     "cipher": "chacha20-ietf-poly1305",
     "password": "YWM3NmYz"
+  },
+  "Turkey 1": {
+    "server": "tr.opensocks.site",
+    "port": "8388",
+    "cipher": "chacha20-ietf-poly1305",
+    "password": "YzNhZDY0"
   }
 }
