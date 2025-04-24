@@ -4,5 +4,35 @@
     "password": "Skysy091998!",
     "hwid": "178BFBFF00860F01",
     "expires": "2026-05-01T00:00:00"
+  },
+  {
+    "username": "user1",
+    "password": "Password123!",
+    "hwid": "AB12CD34EF56GH78",
+    "expires": "2025-12-31T23:59:59"
+  },
+  {
+    "username": "user2",
+    "password": "TestPass2025!",
+    "hwid": "98D7AB23CDEF3456",
+    "expires": "2025-08-01T00:00:00"
+  },
+  {
+    "username": "guest123",
+    "password": "GuestPass2025!",
+    "hwid": "54A3B2C1D4E5F678",
+    "expires": "2025-10-31T23:59:59"
+  },
+  {
+    "username": "demoUser",
+    "password": "DemoPass2025!",
+    "hwid": "CDEF1234AB56EF78",
+    "expires": "2025-11-01T00:00:00"
+  },
+  {
+    "username": "testUser",
+    "password": "TestPassword123!",
+    "hwid": "F1A2B3C4D5E6F789",
+    "expires": "2025-07-01T12:00:00"
   }
 ]
