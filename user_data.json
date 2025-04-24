@@ -6,10 +6,10 @@
     "expires": "2026-05-01T00:00:00"
   },
   {
-    "username": "user1",
-    "password": "Password123!",
-    "hwid": "AB12CD34EF56GH78",
-    "expires": "2025-12-31T23:59:59"
+    "username": "cedric",
+    "password": "cedric",
+    "hwid": "BFEBFBFF000906E9",
+    "expires": "2026-12-31T23:59:59"
   },
   {
     "username": "user2",
