@@ -1,4 +1,10 @@
 {
+    "PREM HK 1": {
+    "server": "70.36.96.28",
+    "port": "40001",
+    "cipher": "aes-128-gcm",
+    "password": "playsecure123"
+  },
   "United States 1": {
     "server": "pupas-shirting-unsung.freesocks.work",
     "port": "443",
