@@ -5,28 +5,10 @@
     "cipher": "chacha20-ietf-poly1305",
     "password": "oxdzXZWzVhJKCz2HFJ3HB9"
   },
-  "Singapore 1": {
-    "server": "167.71.202.241",
-    "port": "8443",
-    "cipher": "aes-256-gcm",
-    "password": "wr7CnMOmw5HDrADCqgPDm8KdG8Kcw4bCqMKEw7wqW1AqNsORVmJ1IsKHZnzCvGHCqg=="
-  },
-  "Singapore 2": {
-    "server": "152.42.254.85",
-    "port": "8443",
-    "cipher": "aes-256-gcm",
-    "password": "adf8b4b0-319c-4257-ae01-52f04cb402af"
-  },
-  "Canada 1": {
-    "server": "ca.opensocks.site",
+  "Hongkong 1": {
+    "server": "hk1.vpnhack.site",
     "port": "8388",
     "cipher": "chacha20-ietf-poly1305",
-    "password": "YWM3NmYz"
-  },
-  "Turkey 1": {
-    "server": "tr.opensocks.site",
-    "port": "8388",
-    "cipher": "chacha20-ietf-poly1305",
-    "password": "YzNhZDY0"
+    "password": "MWYyN"
   }
 }
