@@ -12,10 +12,10 @@
     "expires": "2026-12-31T23:59:59"
   },
   {
-    "username": "user2",
-    "password": "TestPass2025!",
-    "hwid": "98D7AB23CDEF3456",
-    "expires": "2025-08-01T00:00:00"
+    "username": "deej",
+    "password": "deej",
+    "hwid": "178BFBFF00810F81",
+    "expires": "2026-08-01T00:00:00"
   },
   {
     "username": "guest123",
