@@ -1,0 +1,17 @@
+{
+  "HK-1": {
+    "endpoint": "[2607:fa98:6000::f]:51820",
+    "privkey": "KOgdM+sukP4zNENSPNdyZH8LZgYgCI/BDXjZlIvJlFQ=",
+    "pubkey": "KOgdM+sukP4zNENSPNdyZH8LZgYgCI/BDXjZlIvJlFQ="
+  },
+  "SG-1": {
+    "endpoint": "sg1.example.com:51820",
+    "privkey": "fLbDbP9GvPxN4Pz8Hr5VQapBOhOelknRtdRSmN7Ug3U=",
+    "pubkey": "RpZjZo5z4upFZlJH6kgzETQ3He0VK1uD3x7trIMN76Q="
+  },
+  "US-1": {
+    "endpoint": "us1.example.com:51820",
+    "privkey": "QF0Op0s/9Z6fgUtxZxJ1H7XkJre8k+YB9zmhNkR9Zxg=",
+    "pubkey": "z9TLWNjf/yaJeRWDrD+5UccNdV0Q/0yfbErOOnINQBM="
+  }
+}
