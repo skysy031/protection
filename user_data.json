@@ -27,12 +27,12 @@
     "username": "baboon",
     "password": "baboon",
     "hwid": "178BFBFF00A50F00",
-    "expires": "2026-11-01T00:00:00"
+    "expires": "2025-05-01T12:00:00"
   },
   {
-    "username": "testUser",
-    "password": "TestPassword123!",
-    "hwid": "F1A2B3C4D5E6F789",
-    "expires": "2025-07-01T12:00:00"
+    "username": "thorfin",
+    "password": "thorfin",
+    "hwid": "BFEBFBFF000306C3",
+    "expires": "2025-05-01T12:00:00"
   }
 ]
