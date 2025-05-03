@@ -24,10 +24,10 @@
     "expires": "2026-10-31T23:59:59"
   },
   {
-    "username": "demoUser",
-    "password": "DemoPass2025!",
-    "hwid": "CDEF1234AB56EF78",
-    "expires": "2025-11-01T00:00:00"
+    "username": "baboon",
+    "password": "baboon",
+    "hwid": "178BFBFF00A50F00",
+    "expires": "2026-11-01T00:00:00"
   },
   {
     "username": "testUser",
