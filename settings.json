@@ -1,0 +1,86 @@
+{
+  "ServerComboBoxSelectedIndex": 0,
+  "ModeComboBoxSelectedIndex": 0,
+  "ExitWhenClosed": false,
+  "StopWhenExited": false,
+  "StartWhenOpened": false,
+  "MinimizeWhenStarted": false,
+  "RunAtStartup": false,
+  "CheckUpdateWhenOpened": false,
+  "CheckBetaUpdate": false,
+  "UpdateSubscribeatWhenOpened": false,
+  "ModifySystemDNS": false,
+  "ModifiedDNS": "",
+  "ResolveServerHostname": false,
+  "RequestTimeout": 10000,
+  "Pac_Url": "",
+  "Pac_Port": 2803,
+  "HTTPLocalPort": 2802,
+  "Socks5LocalPort": 2801,
+  "RedirectorTCPPort": 3901,
+  "UDPSocketPort": 18291,
+  "LocalAddress": "0.0.0.0",
+  "TUNTAP": {
+    "Address": "10.0.236.10",
+    "Netmask": "255.255.255.0",
+    "Gateway": "10.0.236.1",
+    "DNS": [],
+    "UseCustomDNS": false,
+    "ProxyDNS": false,
+    "UseFakeDNS": false
+  },
+  "UseProxyToUpdateSubscription": false,
+  "SubscribeLink": [],
+  "Server": [
+    {
+      "Remark": "70.36.96.28:40001",
+      "Group": "NONE",
+      "Type": "SS",
+      "Rate": 1.0,
+      "Hostname": "70.36.96.28",
+      "Port": 40001,
+      "Delay": 25,
+      "Country": "US",
+      "EncryptMethod": "aes-128-gcm",
+      "Password": "playsecure123",
+      "Plugin": "",
+      "PluginOption": ""
+    }
+  ],
+  "BypassIPs": [],
+  "Profiles": [
+    {
+      "ServerRemark": "70.36.96.28:40001",
+      "ModeRemark": "RavenQuest",
+      "ProfileName": "Test",
+      "IsDummy": false
+    },
+    {
+      "ServerRemark": null,
+      "ModeRemark": null,
+      "ProfileName": null,
+      "IsDummy": true
+    },
+    {
+      "ServerRemark": null,
+      "ModeRemark": null,
+      "ProfileName": null,
+      "IsDummy": true
+    },
+    {
+      "ServerRemark": null,
+      "ModeRemark": null,
+      "ProfileName": null,
+      "IsDummy": true
+    }
+  ],
+  "ProfileCount": 4,
+  "STUN_Server": "",
+  "STUN_Server_Port": 3478,
+  "StartedTcping": false,
+  "StartedTcping_Interval": 5,
+  "ACL": "",
+  "GFWLIST": "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
+  "BootShadowsocksFromDLL": false,
+  "Language": "System"
+}
