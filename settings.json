@@ -68,7 +68,13 @@
     "Hostname": "104.238.190.1",
     "Port": 8080,
     "Delay": 20,
-    "Country":
+    "Country": "JP",
+    "EncryptMethod": "chacha20-ietf-poly1305",
+    "Password": "tokyoaccess",
+    "Plugin": "",
+    "PluginOption": ""
+  }
+]
 
   "BypassIPs": [],
   "Profiles": [
