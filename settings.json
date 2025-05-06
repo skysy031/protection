@@ -31,22 +31,45 @@
   },
   "UseProxyToUpdateSubscription": false,
   "SubscribeLink": [],
-  "Server": [
-    {
-      "Remark": "Hongkong 1",
-      "Group": "NONE",
-      "Type": "SS",
-      "Rate": 1.0,
-      "Hostname": "70.36.96.28",
-      "Port": 40001,
-      "Delay": 25,
-      "Country": "US",
-      "EncryptMethod": "aes-128-gcm",
-      "Password": "playsecure123",
-      "Plugin": "",
-      "PluginOption": ""
-    }
-  ],
+"Server": [
+  {
+    "Remark": "Hongkong 1",
+    "Group": "NONE",
+    "Type": "SS",
+    "Rate": 1.0,
+    "Hostname": "70.36.96.28",
+    "Port": 40001,
+    "Delay": 25,
+    "Country": "HK",
+    "EncryptMethod": "aes-128-gcm",
+    "Password": "playsecure123",
+    "Plugin": "",
+    "PluginOption": ""
+  },
+  {
+    "Remark": "Singapore 1",
+    "Group": "NONE",
+    "Type": "SS",
+    "Rate": 1.0,
+    "Hostname": "45.77.244.123",
+    "Port": 8388,
+    "Delay": 30,
+    "Country": "SG",
+    "EncryptMethod": "aes-256-gcm",
+    "Password": "mysuperpass",
+    "Plugin": "",
+    "PluginOption": ""
+  },
+  {
+    "Remark": "Japan Tokyo",
+    "Group": "NONE",
+    "Type": "SS",
+    "Rate": 1.0,
+    "Hostname": "104.238.190.1",
+    "Port": 8080,
+    "Delay": 20,
+    "Country":
+
   "BypassIPs": [],
   "Profiles": [
     {
