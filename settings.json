@@ -29,6 +29,24 @@
       "Password": "securepassword456",
       "Plugin": "obfs4",
       "PluginOption": "option1"
+    },
+    {
+      "Remark": "Pingzapper HK1",
+      "Group": "Gaming",
+      "Type": "SS",
+      "Rate": 1.0,
+      "Hostname": "hkg1.pingzapper.co",
+      "Port": 10002,
+      "Delay": 30,
+      "Country": "HK",
+      "EncryptMethod": "2022-blake3-aes-128-gcm",
+      "Password": "qatGJ08eDVhVpnHaYybJQQ==",
+      "PSKs": [
+        "qatGJ08eDVhVpnHaYybJQQ==",
+        "Gij75k4PxNpOsbRXEomvCQ=="
+      ],
+      "Plugin": "",
+      "PluginOption": ""
     }
   ]
 }
