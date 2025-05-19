@@ -11,10 +11,10 @@
     "cipher": "chacha20-ietf-poly1305",
     "password": "oxdzXZWzVhJKCz2HFJ3HB9"
   },
-  "Hongkong 1": {
-    "server": "hk1.vpnhack.site",
-    "port": "8388",
-    "cipher": "chacha20-ietf-poly1305",
-    "password": "MWYyN"
+  "Pingzapper-Tokyo": {
+    "server": "tyo2.pingzapper.co",
+    "port": "10002",
+    "cipher": "2022-blake3-aes-128-gcm",
+    "password": "qatGJ08eDVhVpnHaYybJQQ=="
   }
 }
