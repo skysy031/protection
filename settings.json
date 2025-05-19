@@ -41,12 +41,11 @@
       "Country": "HK",
       "EncryptMethod": "2022-blake3-aes-128-gcm",
       "Password": "qatGJ08eDVhVpnHaYybJQQ==",
-      "PSKs": [
-        "qatGJ08eDVhVpnHaYybJQQ==",
-        "Gij75k4PxNpOsbRXEomvCQ=="
-      ],
       "Plugin": "",
-      "PluginOption": ""
+      "PluginOption": "",
+      "iPSKs": [
+        "Gij75k4PxNpOsbRXEomvCQ=="
+      ]
     }
   ]
 }
