@@ -46,5 +46,11 @@
     "password": "zeeke",
     "hwid": "178BFBFF008A0F00",
     "expires": "2025-06-27T12:00:00"
+  },
+  {
+    "username": "mir4",
+    "password": "mir4",
+    "hwid": "BFEBFBFF000306D4",
+    "expires": "2025-09-27T12:00:00"
   }
 ]
