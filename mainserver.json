@@ -1,7 +1,7 @@
 {
   "Hongkong 1": {
     "server": "hkg1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -13,7 +13,7 @@
   },
   "Hongkong 2": {
     "server": "hkg2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -25,7 +25,7 @@
   },
   "Singapore 1": {
     "server": "sin2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -37,7 +37,7 @@
   },
   "Singapore 2": {
     "server": "sin3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -49,7 +49,7 @@
   },
   "Singapore 3": {
     "server": "sin4.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -61,7 +61,7 @@
   },
   "Singapore 4": {
     "server": "sin6.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -73,7 +73,7 @@
   },
   "Amsterdam 1": {
     "server": "ams1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -85,7 +85,7 @@
   },
   "Bangalore 1": {
     "server": "blr1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -97,7 +97,7 @@
   },
   "Buenos Aires 1": {
     "server": "bue1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -109,7 +109,7 @@
   },
   "Chicago 2": {
     "server": "chi2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -121,7 +121,7 @@
   },
   "Chicago 3": {
     "server": "chi3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -133,7 +133,7 @@
   },
   "Dallas 1": {
     "server": "dfw1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -145,7 +145,7 @@
   },
   "Dallas 2": {
     "server": "dfw2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -157,7 +157,7 @@
   },
   "Dallas 3": {
     "server": "dfw3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -169,7 +169,7 @@
   },
   "Dubai 1": {
     "server": "dxb1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -181,7 +181,7 @@
   },
   "Newark 1": {
     "server": "ewr1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -193,7 +193,7 @@
   },
   "Newark 2": {
     "server": "ewr2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -205,7 +205,7 @@
   },
   "Frankfurt 3": {
     "server": "fra3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -217,7 +217,7 @@
   },
   "Jakarta 1": {
     "server": "jkt1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -229,7 +229,7 @@
   },
   "Kuala Lumpur 2": {
     "server": "kul2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -241,7 +241,7 @@
   },
   "Los Angeles 1": {
     "server": "lax1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -253,7 +253,7 @@
   },
   "Los Angeles 2": {
     "server": "lax2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -265,7 +265,7 @@
   },
   "Los Angeles 3": {
     "server": "lax3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -277,7 +277,7 @@
   },
   "Los Angeles 4": {
     "server": "lax4.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -289,7 +289,7 @@
   },
   "Los Angeles 5": {
     "server": "lax5.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -301,7 +301,7 @@
   },
   "London 1": {
     "server": "lon1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -313,7 +313,7 @@
   },
   "London 2": {
     "server": "lon2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -325,7 +325,7 @@
   },
   "Miami 2": {
     "server": "mia2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -337,7 +337,7 @@
   },
   "Manila 1": {
     "server": "mnl1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -349,7 +349,7 @@
   },
   "New York 2": {
     "server": "nyc2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -361,7 +361,7 @@
   },
   "Paris 1": {
     "server": "par1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -373,7 +373,7 @@
   },
   "Paris 2": {
     "server": "par2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -385,7 +385,7 @@
   },
   "Paris 3": {
     "server": "par3.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -397,7 +397,7 @@
   },
   "Sao Paulo 1": {
     "server": "sao1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -409,7 +409,7 @@
   },
   "Seoul 1": {
     "server": "sel1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -421,7 +421,7 @@
   },
   "San Francisco 1": {
     "server": "sfo1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -433,7 +433,7 @@
   },
   "Sydney 1": {
     "server": "syd1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -445,7 +445,7 @@
   },
   "Tel Aviv 1": {
     "server": "tlv1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -457,7 +457,7 @@
   },
   "Tokyo 1": {
     "server": "tyo1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -469,7 +469,7 @@
   },
   "Tokyo 2": {
     "server": "tyo2.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
@@ -481,7 +481,7 @@
   },
   "Toronto 1": {
     "server": "yto1.pingzapper.co",
-    "port": "10002",
+    "port": "10001",
     "cipher": "2022-blake3-aes-128-gcm",
     "password": "fV68rWq+BVD34muUlTtFYg==",
     "plugin": false,
